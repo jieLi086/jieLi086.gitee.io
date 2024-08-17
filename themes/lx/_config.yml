@@ -47,12 +47,12 @@ menu:
 social:
   enable: false
   links:
-  #  GitHub:
-  #    icon: github
-  #    link: https://github.com/yourname
-  #  Email:
-  #    icon: envelope
-  #    link: mailto:your@email.address
+    GitHub:
+      icon: github
+      link: https://github.com/jieLi086
+    Email:
+      icon: envelope
+      link: lijie186350@163.com
   #  Weibo:
   #    icon: weibo
   #    link: https://weibo.com/yourname
@@ -68,7 +68,7 @@ social:
 #'npm install hexo-generator-searchdb -s'
 local_search:
   enable: false
-  trigger: auto #'auto' or 'manual' 
+  trigger: auto #'auto' or 'manual'
   top_n_per_article: 1
   unescape: false
   preload: false
@@ -116,7 +116,7 @@ font:
     family: Noto Serif SC
 
 # Custom head code
-custom_head: 
+custom_head:
 
 # Custom CSS
 # If true, Lx will load 'source/css/custom.styl'
