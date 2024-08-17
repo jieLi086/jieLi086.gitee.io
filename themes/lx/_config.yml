@@ -45,7 +45,7 @@ menu:
 #   icon: fontawesome icon
 #   link: url
 social:
-  enable: false
+  enable: true
   links:
     GitHub:
       icon: github
