@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Larry-lee blog
+title: Larry-lee Blog
 subtitle: ''
-description: '·····~~~~~~~~代码code'
+description: ''
 keywords:
 author: LarryLee
 language: zh-cn
@@ -67,7 +67,11 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  "ca1": ca1
+  "ca2": ca2
 tag_map:
+  "java": java
+  "linux": linux
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
@@ -96,7 +100,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: lx
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
